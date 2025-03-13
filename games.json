@@ -24,34 +24,34 @@
         "date": "13/03/2025",
         "games": [
             {
-                "fixture": "RB Leipzig-:-Real Madrid",
-                "prediction": "GG & Over 2.5"
+                "fixture": "Lyon VS FCSB",
+                "prediction": "1 & Over 2.5"
             },
             {
-                "fixture": "Copenhagen-:-Manchester City",
-                "prediction": "Away Win"
+                "fixture": "Chelsea VS Copenhagen",
+                "prediction": "Chelsea"
             },
             {
-                "fixture": "Gil Vicente-:-Vizela",
-                "prediction": "Under 2.5"
+                "fixture": "Vitoria VS Real Betis",
+                "prediction": "Over 1.5"
             }
         ]
     },
     {
         "name": "id_standard_sub",
-        "date": "13/02/2024",
+        "date": "13/03/2025",
         "games": [
             {
-                "fixture": "RB Leipzig-:-Real Madrid",
-                "prediction": "GG & Over 2.5"
+                "fixture": "Chelsea VS Copenhagen",
+                "prediction": "1 & Over 2.5"
             },
             {
-                "fixture": "Copenhagen-:-Manchester City",
-                "prediction": "Away Win"
+                "fixture": "Fiorentina VS Panathinaikos",
+                "prediction": "Over 2.5"
             },
             {
-                "fixture": "Gil Vicente-:-Vizela",
-                "prediction": "Under 2.5"
+                "fixture": "Vitoria VS Real Betis",
+                "prediction": "Real Betis"
             }
         ]
     },
