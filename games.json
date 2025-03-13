@@ -57,25 +57,25 @@
     },
     {
         "name": "id_premium_sub",
-        "date": "13/02/2024",
+        "date": "13/03/2025",
         "games": [
             {
-                "fixture": "RB Leipzig-:-Real Madrid",
-                "prediction": "GG & Over 2.5"
+                "fixture": "Legia Warszawa VS Molde",
+                "prediction": "Molde"
             },
             {
-                "fixture": "Copenhagen-:-Manchester City",
-                "prediction": "Away Win"
+                "fixture": "Lyon VS FCSB",
+                "prediction": "Over 2.5"
             },
             {
-                "fixture": "Gil Vicente-:-Vizela",
-                "prediction": "Under 2.5"
+                "fixture": "Bouri SC VS Ittifaq Maqaba",
+                "prediction": "Draw"
             }
         ]
     },
     {
         "name": "id_correctScore_sub",
-        "date": "13/02/2024",
+        "date": "13/03/2025",
         "games": [
             {
                 "fixture": "RB Leipzig-:-Real Madrid",
@@ -93,19 +93,19 @@
     },
     {
         "name": "id_jackpot_sub",
-        "date": "13/02/2024",
+        "date": "13/03/2025",
         "games": [
             {
-                "fixture": "RB Leipzig-:-Real Madrid",
-                "prediction": "GG & Over 2.5"
+                "fixture": "Bouri SC VS Ittifaq Maqaba",
+                "prediction": "Draw"
             },
             {
-                "fixture": "Copenhagen-:-Manchester City",
-                "prediction": "Away Win"
+                "fixture": "Rapid Wien VS Borac",
+                "prediction": "1X"
             },
             {
-                "fixture": "Gil Vicente-:-Vizela",
-                "prediction": "Under 2.5"
+                "fixture": "Ittihad Jeddah VS Al Riyadh SC",
+                "prediction": "1 & Over 2.5"
             }
         ]
     }
