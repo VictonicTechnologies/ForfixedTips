@@ -5,6 +5,7 @@
     "showBannerAd": true,
     "showInterstitialAd": true,
     "showNativeAd": true,
+    "whatsAppUrl": "https://wa.me/+254793927966",
     "plans": [
         {
             "name": "Free Tips",
