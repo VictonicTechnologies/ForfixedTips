@@ -1,11 +1,11 @@
 {
     "visibility": true,
-    "tillNumber": "5204479",
+    "tillNumber": "707045",
     "tillName": "Football Highway",
     "showBannerAd": true,
     "showInterstitialAd": true,
     "showNativeAd": true,
-    "whatsAppUrl": "https://wa.me/+254793927966",
+    "whatsAppUrl": "https://wa.me/+254705345975",
     "plans": [
         {
             "name": "Free Tips",
@@ -17,11 +17,11 @@
             "length": 1
         },
         {
-            "name": "Draw Tips",
+            "name": "Jackpot Tips",
             "amount": "Ksh100",
             "ticketNumber": "Ticket 4",
             "ticketDate": "Tuesday, 12th February 2024",
-            "odds": "Daily Sure Draws",
+            "odds": "Jackpot",
             "id": "id_jackpot_sub",
             "length": 17
         },
