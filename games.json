@@ -1,21 +1,21 @@
 [
     {
         "name": "id_free_sub",
-        "date": "19/04/2025",
+        "date": "20/04/2025",
         "games": [
             {
-                "fixture": "Sundowns FC VS Ahly Cairo",
-                "prediction": "Under 3.5"
+                "fixture": "Real Madrid VS Athletic Bilbao",
+                "prediction": "Goal Goal"
                 
             },
             {
-                "fixture": "Crystal Palace VS Bournemouth",
-                "prediction": "Goal Goal"
+                "fixture": "Nice VS Angers",
+                "prediction": "Nice"
             },
             {
-                "fixture": "Aston Villa VS Newcastle United",
+                "fixture": "Borussia Dortmund VS Borussia M'gladbach",
                 "prediction": "Over 2.5",
-                "date": "19/04/2025"
+                "date": "20/04/2025"
             }
         ]
     },
