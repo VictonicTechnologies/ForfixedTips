@@ -1,6 +1,6 @@
 [
     {
-        "date": "Friday, 13th October 2023",
+        "date": "Saturday, 19th April 2025",
         "gamesList": [
             {
                 "fixture": "APOEL FC VS Olympiakos Nic.",
@@ -35,7 +35,7 @@
         ]
     },
     {
-        "date": "Thursday, 12th October 2023",
+        "date": "Friday, 18th April 2025",
         "gamesList": [
             {
                 "fixture": "Chapelton VS Arnett Gardens",
@@ -70,7 +70,7 @@
         ]
     },
     {
-        "date": "Wednesday, 11th May 2023",
+        "date": "Thurday, 17th April 2024",
         "gamesList": [
             {
                 "fixture": "CD Huarte VS CD Ardoi",
@@ -105,7 +105,7 @@
         ]
     },
     {
-        "date": "Tuesday, 10th October 2023",
+        "date": "Wednesday, 16th April 2024",
         "gamesList": [
             {
                 "fixture": "USC Paredes VS AD Sanjoanense",
@@ -140,7 +140,7 @@
         ]
     },
     {
-        "date": "Monday 9th October 2023",
+        "date": "Tuesday, 15th April 2024",
         "gamesList": [
             {
                 "fixture": "SKA-Khabarovsk-2 VS Zenit Penza",
@@ -261,110 +261,6 @@
                 "results": "WIN"
             }
         ]
-    },
-    {
-        "date": "Friday, 6th October 2023",
-        "gamesList": [
-            {
-                "fixture": "UB Conquense VS CD Torrijos",
-                "prediction": "Under 0.5 Goals",
-                "odds": "5.07",
-                "results": "WIN"
-            },
-            {
-                "fixture": "CF Intercity VS UD Logrones",
-                "prediction": "Draw 2-2",
-                "odds": "3.62",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Real Sociedad B VS Atl莨�tico Baleares",
-                "prediction": "HT/FT X/1 ",
-                "odds": "4.28",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Levante Las Planas W VS Huelva W",
-                "prediction": "Correct Score 1-2",
-                "odds": "4.39",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Terranuova Traiana VS Poggibonsi ",
-                "prediction": "Correct Score 0-3",
-                "odds": "7.29",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Thursday, 5th October 2023",
-        "gamesList": [
-            {
-                "fixture": "Bnei Sakhnin VS Hapoel Hadera",
-                "prediction": "Over 4.5",
-                "odds": "5.07",
-                "results": "WIN"
-            },
-            {
-                "fixture": "CD Santa 鐃�rsula VS CD Tenerife B",
-                "prediction": "CS 0-1",
-                "odds": "5.43",
-                "results": "WIN"
-            },
-            {
-                "fixture": "UD Collerense VS SD Portmany",
-                "prediction": "1-0",
-                "odds": "6.72",
-                "results": "WIN"
-            },
-            {
-                "fixture": "UD Collerense VS SD Portmany",
-                "prediction": "HT/FT 1/1",
-                "odds": "4.39",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Rahimo VS Vitesse FC (BFA)",
-                "prediction": "Over 5.5 Goals",
-                "odds": "6.19",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Wednesday, 4th October 2023",
-        "gamesList": [
-            {
-                "fixture": "Petro Atletico VS Recreativo Libolo ",
-                "prediction": "Correct Score 0-1 ",
-                "odds": "5.68",
-                "results": "WIN"
-            },
-            {
-                "fixture": "JS Massira VS Chabab Kh莨�nifra ",
-                "prediction": "Draw Fixed",
-                "odds": "3.05",
-                "results": "WIN"
-            },
-            {
-                "fixture": "SFC Pisek VS Admira Praha",
-                "prediction": "HT Draw",
-                "odds": "2.37",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Markez Balata VS Ahli Al-Khalil ",
-                "prediction": "HT/FT X/1",
-                "odds": "5.39",
-                "results": "WIN"
-            },
-            {
-                "fixture": "R��gas FS II VS Valmiera II ",
-                "prediction": "Over 5.5 Goals",
-                "odds": "6.42",
-                "results": "WIN"
-            }
-        ]
     }
+   
 ]
